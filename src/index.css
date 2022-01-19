@@ -1,13 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Frijole&display=swap');
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
+  font-family: 'Frijole', cursive;
+    -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+
+.homepage{
+  background-image: url("https://res.cloudinary.com/dcqew2kqy/image/upload/v1638776854/0001-13918195907_20211206_131628_0000_uqsazk.png");
+  background-size:100% 100%;
+  background-repeat: no-repeat;
+  
+  
+}
+
+.startpage{
+  background-image: url("https://res.cloudinary.com/dcqew2kqy/image/upload/v1638774009/0001-13915108812_20211206_120339_0000_gwvyp8.png");
+  background-size:100% 100%;
+}
+
+.game-page{
+  background-image: url("https://res.cloudinary.com/dcqew2kqy/image/upload/v1638786645/20211206_155852_0000_vynw70.png");
+  background-size:100% 100%;
+}
+
+.login {
+  background-image: url("https://res.cloudinary.com/dcqew2kqy/image/upload/v1638776854/0001-13918195907_20211206_131628_0000_uqsazk.png");
+  background-size: 100% 100%;
 }
